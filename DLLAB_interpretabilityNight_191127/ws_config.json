@@ -1,0 +1,6 @@
+{
+    "subscription_id": "write_your_subuscription_id。リポジトリにプッシュして公開しないように気をつけてください",
+    "resource_group": "write_your_resource_group of the ML Service WorkSpace",
+    "workspace_name": "write_your_ML_Service_WorkSpace_name",
+    "location": "write_your_ML_Service_WorkSpace_location"
+}
