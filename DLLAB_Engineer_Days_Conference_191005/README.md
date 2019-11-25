@@ -9,7 +9,7 @@ https://dllab.connpass.com/event/144647/
 
 にて発表した内容の前半部分、「Azure AutoMLで最適なモデルを自動学習 & Azure Explainerで説明性を獲得」の実装コードです。
 
-# 発表の概要
+## 発表の概要
 
 「BERTによる文書系AIの取り組みと、Azureを用いたテーブルデータの説明性実現！～Azure AutoMLで最適なモデルを自動学習 & Azure Explainerで説明性を獲得～」
 
