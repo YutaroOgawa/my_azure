@@ -1,9 +1,3 @@
-# my_azure
-MS Azure関連のプログラムのリポジトリです
-
-
-
-
 ### DLLAB_Engineer_Days_Conference_191005
 DLLAB Engineer Days Day2: Conference（2019年10月7日@東京コンファレンスセンター・品川）
 
